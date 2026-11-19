@@ -58,6 +58,5 @@ Competitive rugby has helped me build leadership, teamwork, communication, and r
 
 **Interested in collaborating or connecting?**
 
-[LinkedIn](https://www.linkedin.com/in/adheesha-kulasekara-3050a9261/) · [GitHub repositories](https://github.com/AdheeshaImada?tab=repositories) · [Jaffna Rugby Club website](https://gallery.jaffnarugbyclub.com/)
-
+[LinkedIn](https://www.linkedin.com/in/adheesha-kulasekara-3050a9261/) · [GitHub repositories](https://github.com/AdheeshaImada?tab=repositories) 
 </div>
