@@ -1,40 +1,62 @@
-# Hi, I'm Adheesha Imada 👋
+<div align="center">
 
-**Computer Science | Software & Game Development | Exploring Cybersecurity**
+# Adheesha Imada Kulasekara
 
-I'm a Computer Science student at the **University of Jaffna, Sri Lanka**, interested in developing practical software, building games, and learning how to make systems more secure.
+**Computer Science · Software & Game Development · Exploring Cybersecurity**
 
-- 💻 I enjoy working with **Python, Java, C++, and JavaScript**.
-- 🎮 I build and experiment with **2D games** using Pygame, SFML, and web technologies.
-- 🔐 I'm currently learning more about **cybersecurity** and secure software development.
-- 📱 I'm developing an **Android workout-tracking application**.
-- 🏉 Outside programming, I served as **Vice Captain of the University of Jaffna Rugby Team (2026 season)**.
+Based in Sri Lanka · University of Jaffna
 
-## 🛠️ Technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adheesha-kulasekara-3050a9261/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AdheeshaImada?tab=repositories)
+[![Live Project](https://img.shields.io/badge/Live_Project-Jaffna_Rugby_Club-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://gallery.jaffnarugbyclub.com/)
 
-**Languages:** Python · Java · C · C++ · JavaScript · SQL  
-**Game development:** Pygame · SFML  
-**Tools:** Git · GitHub · Android Studio · VS Code  
-**Other interests:** Android development · IoT · Data visualization · Cybersecurity
+</div>
 
-## 🚀 Selected Projects
+---
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [Alien Invasion](https://github.com/AdheeshaImada/Alian-invasion) | 2D shooting game | Python, Pygame |
-| [2D JavaScript Game](https://github.com/AdheeshaImada/2D_Game_JS) | Browser-based 2D game | HTML, CSS, JavaScript |
-| [Timber](https://github.com/AdheeshaImada/Timber) | 2D game | C++, SFML |
-| [Data Visualization](https://github.com/AdheeshaImada/data_visualization) | Python data visualization exercises and experiments | Python |
+### About me
 
-## 🌱 What I'm Working Toward
+I'm a Computer Science student at the **University of Jaffna** who enjoys turning ideas into working software. My interests span **software engineering, game development, and cybersecurity**.
 
-I'm improving my software engineering skills through personal and academic projects, while exploring **game development**, **Android applications**, and **cybersecurity fundamentals**. I hope to contribute to collaborative, real-world software projects.
+- Built and maintain a live website for **Jaffna Rugby Club** as its sole developer.
+- Contributed to **Educat**, a collaborative university e-learning platform project.
+- Develop 2D games and explore new tools through hands-on projects.
+- Currently exploring **secure software development** and building an **Android workout-tracking app**.
 
-## 🤝 Beyond Code
+### Featured work
 
-Serving as Vice Captain of my university rugby team helped me develop leadership, communication, teamwork, and decision-making under pressure — skills I bring to collaborative technical work.
+| Project | Overview | Links |
+| :--- | :--- | :--- |
+| **Jaffna Rugby Club Website** | Independently developed a live club website, working on its pages, gallery, administration features, mobile usability, and maintenance. Built with **Next.js**; the source repository remains private. | [Live website](https://gallery.jaffnarugbyclub.com/) |
+| **Educat — E-Learning Platform** | University final-year **team project**. Contributed to developing an online learning platform with fellow students. | [Team repository](https://github.com/UpendraNilupul/Educat-elearning-platform) |
+| **Alien Invasion** | A 2D shooting game built with **Python and Pygame**. | [Source code](https://github.com/AdheeshaImada/Alian-invasion) |
+| **2D JavaScript Game** | A browser-based game made with **HTML, CSS, and JavaScript**. | [Source code](https://github.com/AdheeshaImada/2D_Game_JS) |
+| **Timber** | A 2D game created using **C++ and SFML**. | [Source code](https://github.com/AdheeshaImada/Timber) |
 
-## 📫 Connect
+**Also explored:** [Python Data Visualization](https://github.com/AdheeshaImada/data_visualization)
 
-- [LinkedIn](https://www.linkedin.com/in/adheesha-kulasekara-3050a9261/)
-- [GitHub](https://github.com/AdheeshaImada)
+### Tech toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C` `C++` `JavaScript` `SQL` |
+| **Web development** | `HTML` `CSS` `Next.js` |
+| **Game development** | `Pygame` `SFML` |
+| **Tools & platforms** | `Git` `GitHub` `VS Code` `Android Studio` |
+| **Learning & exploring** | Cybersecurity · Android development · IoT |
+
+### Beyond code
+
+**Vice Captain — University of Jaffna Rugby Team (2026 season)**
+
+Competitive rugby has helped me build leadership, teamwork, communication, and resilience—qualities I bring to collaborative software projects.
+
+---
+
+<div align="center">
+
+**Interested in collaborating or connecting?**
+
+[LinkedIn](https://www.linkedin.com/in/adheesha-kulasekara-3050a9261/) · [GitHub repositories](https://github.com/AdheeshaImada?tab=repositories) · [Jaffna Rugby Club website](https://gallery.jaffnarugbyclub.com/)
+
+</div>
